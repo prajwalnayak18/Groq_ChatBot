@@ -2,10 +2,12 @@
 
 This project integrates a FastAPI backend with a React frontend to provide a Q&A interface using the Groq API.
 
+**Make sure to use two diffrent terminals for frontend and backend running simultanously**
+
 
 ## Setup
 
-Backend (FastAPI)
+## Backend (FastAPI)
 
 1. **Navigate to the backend directory:**
     ```bash
